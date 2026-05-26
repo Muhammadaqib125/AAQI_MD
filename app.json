@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "AAQI MD",
+  "description": "Javascript WhatsApp bot made by AAQI",
   "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["AAQI MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: AAQI MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "AAQI MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,12 +27,12 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 923284564764)",
       "required": false,
       "value": "923427582273"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: AAQI MD)",
       "required": false,
       "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
     },
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by AAQI MD*"
     }
   },
   "buildpacks": [
