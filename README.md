@@ -35,11 +35,7 @@
 > **Deploy New Version `1.0.0`**  
 
 ---
-
-<div align="center">
-  <img src="https://ibb.co/wZ3KQGg8" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
-
+<a href="https://ibb.co/wZ3KQGg8"><img src="https://i.ibb.co/WNqcz857/20260526-053050.jpg" alt="20260526-053050" border="0" /></a>
 ***
 
 <div align="center"> 
